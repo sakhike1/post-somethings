@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TheHeader emits "sidenavToggle" event when TheSideNavToggle emits "toggle" 1`] = `undefined`;
